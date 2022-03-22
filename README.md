@@ -1,2 +1,3 @@
-# MQIAO
-The python code for a quick bridge based on multisig
+# MagicBridge
+
+Bridging other chains' assets (or tokens) to Stellar for fast SDEX and safe LP.
